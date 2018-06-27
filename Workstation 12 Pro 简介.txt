@@ -1,0 +1,175 @@
+Workstation 12 Pro 简介
+VMware Workstation 12 Pro 延续了 VMware 的传统，即提供专业技术人员每天在使用虚拟机时所依赖的领先功能和性能。借助对最新版本的 Windows 和 Linux、最新的处理器和硬件的支持以及连接到 VMware vSphere 和 vCloud Air 的能力，它是提高工作效率、节省时间和征服云计算的完美工具。
+
+专为 Microsoft Windows 10 和其他系统构建
+Workstation 12 Pro 是借助您的现有 Windows 或 Linux PC 评估和测试 Windows 10 的最佳方法。使用 Workstation“虚拟机向导”，您只需几个简单的步骤即可从磁盘或 ISO 映像在虚拟机中轻松地安装 Windows 10。借助 Workstation 12 Pro，您可以开始充分利用 Windows 10 最新功能（例如私人数字助理 Cortana（微软小娜）、新的 Edge 网络浏览器中的墨迹书写功能），您甚至可以开始为 Windows 10 设备构建通用应用。您甚至可以要求 Cortana（微软小娜）直接从 Windows 10 启动 VMware Workstation。 
+
+对于运行最新 Linux 发行版的组织和技术用户，Workstation 12 Pro 支持 Ubuntu 15.04、Red Hat Enterprise Linux 7.1、Fedora 22 等系统。您甚至可以创建嵌套的虚拟化管理程序来运行 Hyper-V 或 VMware ESXi 和 vSphere，以便为培训、演示和测试构建终极 vSphere 实验室。Workstation 12 Pro 具有针对 VMware Photon 的新增支持，以便您可以构建和测试在虚拟化环境中运行的容器化应用。
+
+支持高分辨率显示屏
+Workstation 12 Pro 已经过了优化，可支持用于台式机的高分辨率 4K UHD (3840 x 2160) 显示屏和用于笔记本电脑和 x86 平板电脑的 QHD+ (3200x1800) 显示屏，为您提供清晰细腻的显示体验。Workstation 12 Pro 现在支持在主机上使用具有不同 DPI 设置的多个显示屏，以便您可以同时使用全新的 4K UHD 显示屏和您现有的 1080P 高清显示屏。
+
+可创建功能强大的虚拟机
+利用 Workstation 12 Pro，您现在可以创建拥有多达 16 个虚拟 CPU、8 TB 虚拟磁盘以及 64 GB 内存的虚拟机，以便在虚拟环境中运行要求最严苛的桌面和服务器应用。您可以通过为虚拟机分配多达 2 GB 的显存，使图形密集型应用的处理能力更上层楼。
+
+借助 Workstation 虚拟平板电脑传感器，充分利用基于 Intel 的最新平板电脑。将最新的 Microsoft Surface 平板电脑与 Workstation 的虚拟加速计、陀螺仪、指南针和环境光线传感器结合使用，可以使虚拟机中运行的应用在用户移动、旋转和摇动平板电脑时进行响应。无论您是使用笔记本电脑、平板电脑还是台式电脑，Workstation 12 Pro 都支持最新的 Intel 64 位 x86 处理器，包括新的 Broadwell 和 Haswell 微架构，可以实现最高的性能。
+
+增强了连接
+Workstation 12 Pro 可充分利用最新的硬件，支持带 7.1 环绕声的高清音频、USB 3.0 和蓝牙设备，让您可以轻松将新的网络摄像头、耳机或打印机连接到虚拟机。Workstation 12 Pro 现在支持 Windows 7 和 Windows 8 中的 USB 3.0，从而借助外部存储设备实现超快的文件传输。另外，Workstation 12 Pro 还可提高客户虚拟机内的 Skype 或 Lync 会议通话的性能，以便您可以从虚拟机进行清晰的会议通话。
+
+构建虚拟网络
+借助更强大的 IPv6 支持（包括 IPv6 到 IPv4 网络地址转换（6to4 和 4to6）），用户可以创建比以往任何时候都更加复杂的网络拓扑。Workstation 12 Pro 虚拟网络编辑器可用于添加和删除 IPv4 或 IPv6 网络，并创建自定义的虚拟网络连接配置，因而是适用于测试和演示环境并且不影响 PC 网络配置的理想产品。
+
+利用 vSphere 和 vCloud Air 的强大功能
+Workstation 12 Pro 提供到 VMware vSphere 和 vCloud Air 服务的连接，从而允许您将虚拟机延伸到云中并进行扩展。这样，专业技术人员可以同时使用本地虚拟机和服务器托管的虚拟机以实现最佳灵活性，并利用单个 PC 以外的资源。借助 Workstation 12 Pro，可以在 PC 与运行 vSphere、ESXi 或其他 Workstation 实例的内部云之间顺畅地拖放虚拟机。另外，还可以轻松连接到 vCloud Air 并直接从 Workstation 12 Pro 界面中上传、运行和查看虚拟机。 
+
+Workstation 12 现在提供 vCloud Air 电源操作，以便您可以启动/关闭或挂起/恢复虚拟机，从而节省额外步骤和时间。
+
+
+用户界面
+Workstation 12 Pro 可以让专业技术人员充分掌控如何设置虚拟机并与之进行交互，而不论这些虚拟机是在本地的 PC 运行还是在云中运行。Workstation 12 Pro 界面包括简化的菜单、实时缩略图、选项卡、首选项屏幕和具有搜索功能的虚拟机库，让您可以快速查看和访问您的虚拟机，从而节省宝贵的时间。 
+
+借助 Workstation 12 Pro，您现在可以为桌面去掉虚拟机标签，并在您需要使用多个虚拟机时创建全新的 Workstation 实例。
+
+
+保护您的工作并节省时间
+借助 Workstation 12 Pro，您可以使用快照和克隆功能保护您的虚拟机并节省宝贵的时间。快照功能可保留虚拟机的某个状态，因此您可随时返回此状态。使用克隆功能可以轻松复制 Workstation 虚拟机，并可以直接在基准安装和配置的基础上创建无数个虚拟机副本。链接克隆是一种复制复杂设置的更快、更简单、更高效的方式，适用于测试和自定义演示。链接克隆将会制作一个与父虚拟机共享虚拟磁盘的虚拟机副本，这样做的好处是所占磁盘空间比完整克隆少得多。
+
+
+运行受限虚拟机
+创建和控制与您的虚拟机有关的策略，并在 Workstation 12 受限虚拟机容器内为终端用户提供应用。通过限制对 Workstation 虚拟机设置的访问（例如拖放、复制和粘贴以及连接 USB 设备）来保护公司内容。此外，还可以对虚拟机进行加密和密码保护，以确保未经授权的用户无法篡改企业虚拟机设置。 
+
+Workstation 12 Pro 现在可以提高加密虚拟机在挂起和恢复操作期间的性能，与以前版本的 Workstation 相比，可以最多将性能提高 3 倍。
+
+
+设定虚拟机的过期时间
+对于分配至短期项目的员工、临时员工或仅仅是交付软件评估的情况，Workstation 允许您创建可在预定义的日期和时间过期的受限虚拟机。启动后，虚拟机将以指定的时间间隔查询服务器，从而将受限虚拟机的策略文件中的当前系统时间存储为最后受信任的时间戳。过期的虚拟机将自动挂起，并且在没有管理员干预的情况下不会重新启动。
+虚拟机交叉兼容性
+Workstation 12 Pro 可提供跨 VMware 产品组合和跨不同平台的兼容性。利用 Workstation 12 Pro，您可以创建能够跨 VMware 产品组合运行的虚拟机，或创建能够在 Horizon FLEX 和 Workstation Player 中使用的受限虚拟机。
+
+注意：只支持64位的Windows 系统
+
+文件:VMware-workstation-full-12.1.0-3272444.exe
+MD5: FE3A2AC7B040ECFDE73A81134CF72521
+SHA-1: B8096E025E30E7015711B83644E851207A0F1D82
+CRC32: 4AFC9FAA
+
+
+
+安装序列号：
+
+5A02H-AU243-TZJ49-GTC7K-3C61N
+ 
+ZZ510-DYX47-48ERP-D6XZG-YCKU2
+
+YV5MU-2FX5H-M841P-LZX5X-PYHX8
+
+CF71A-2AZ17-M81FY-4WX5Z-XKKX8
+
+ZY35H-24DDJ-M8DXY-JYNZE-X72G6
+
+FG7MH-DLX8L-M8EPQ-1PNQT-QF29D
+
+YU7ER-8CG56-0841Y-H6QNC-QYAZ2
+
+UC38A-8ZX1J-M88UQ-XXXGZ-PPRY2
+
+VF192-4ED43-M8E1Q-TDZZT-W60Y0
+
+AG782-DCWD7-M88YY-4MQXC-XVHFF
+
+AC5RK-FVF00-H883P-K5NNX-Z3KW4
+
+AZ1M8-4KX9L-48D3Y-KNPEE-ZL2T2
+
+UG1N0-F3G92-08EKQ-4FYEG-PYUC0
+
+YU1NA-AXY41-M8DWY-J6NQT-PZ0R8
+
+FC1ER-DZGEK-4809Q-TNYXX-NZRR6
+
+FA15H-6DYE0-M81UQ-LPNZV-W3UZ6
+
+GU35H-60YDP-M89AP-5QZQ9-NZUE0
+
+VG75R-FQZ81-48E7P-LPZNV-YVHC6
+
+GU1T2-2XFE3-084EP-QXZXT-XC8G6
+ZA300-DPFDL-H89RZ-G5P7Z-ZKUU2
+CA5M8-ATG85-H84MY-06NNC-XYHU0
+YA55U-4CW80-M842Z-5PMZV-Q6UWA
+GY35K-47EDN-0885P-YZMGC-WFK8F
+AY1W0-ATE4L-484NZ-TDXZE-XGUW8
+CG70H-FFF11-48E5Q-G4QZ9-PGRD0
+YC7R8-6TW5K-H889Y-1PWZT-Q32UF
+FG5NR-4UG02-080NZ-QDZNE-ZGKD8
+UZ7TR-05W0L-489KZ-DNP5E-XU088
+FG3HA-AMW17-085MQ-KNPGX-NKU86
+UZ5TK-08F04-H88RZ-36QNC-YAHWA
+FG35A-A7Z5J-481PZ-5DQQT-YL2X4
+CA19A-FDW5N-4811P-UWYNV-ZPH8D
+ZU1NR-ADXE3-M8DQY-A4QQZ-PCU88
+UF7X8-66FEJ-H89NP-EFY5T-M60RD
+FU1XU-F6ED3-H888Y-UXMXT-NKUCA
+CZ1NR-F1E82-M8DHZ-NNX7Z-WQAF8
+UA3T2-60YDP-08EVZ-EEMGG-Q78C8
+GV102-DCD97-48D2Z-MGNNV-WPUED
+YV708-0EE47-080GP-YZW5X-NQUA4
+YF5HK-D9Z4H-081YZ-XMN59-MQAY6
+UA3TK-F1W52-M8DPQ-GEWZX-WZAWA
+VG51U-6XZ4H-48EDP-4EYNT-M7AU2
+AA740-AVXDK-H89YQ-27QX9-M2A9F
+AA3D2-80Z5J-H89TQ-4ZPXE-QUACF
+AA3D2-80Z5J-H89TQ-4ZPXE-QUACF
+ZA1NR-63G9Q-H88GZ-7FQXE-WARD4
+FV182-FEW5L-H89TP-F4Q7X-Z68F8
+ZC790-6HY83-M80CP-1QYZG-YU0Y8
+YG5DH-FTY0J-H89FY-LXXEE-QLRG6
+GG78K-FRG94-M81CY-UGZ5V-ZK8T4
+VU3EK-A9Z9P-H813Q-KZZZG-YQAXA
+UF1H8-DYZ0Q-H8E9Q-0QX5E-ZP0A6
+CF7MH-FRW07-485MQ-QDXNC-WC898
+VY5WR-A8W86-4880Q-XQQNE-YGRFD
+YC3T2-D3Y1M-48DXZ-87YXT-QZK9D
+GA1HU-4CY9J-M853Q-DMPE9-X6KVF
+UC5RR-AJYE2-M8DHY-H4Z7C-PF2Y4
+ZY598-6GG81-H80HP-AXNGC-QZRVD
+VA7D2-0WWDN-H805Q-D5YQC-NFHGA
+FA5W0-AGF5Q-0807Z-0PYEZ-MZK80
+GZ14R-0FY4K-H89FY-G6QEC-PQRT4
+YY35H-A4G14-M84RQ-JDW7E-N3RU4
+VU39A-6WE4M-08EKQ-UQMZV-ZKRY8
+CU748-AMZ03-481AQ-4NZN9-XUKW2
+GU180-2GGEP-0813Y-JZXQT-MLU9D
+VA708-DFE55-0802P-0EYGV-WKUR4
+VG1RH-2TG15-48E6Q-EZZGZ-XVA86
+YV10A-D3FD3-081AQ-54ZXZ-ZUHD4
+UF50R-FMX01-480MQ-9FQNG-NC8ZF
+VA30K-FXED4-085JP-WQYE9-XVK88
+VU7JA-42D45-M85AY-KNY5G-YYKR0
+YF1E0-AYWDM-4886Z-46P5Z-ZUAF8
+ZU7RR-2NF05-0815Y-YNYQX-YG2A2
+GA5W8-ADG54-M81CZ-0NN7C-WA0Y2
+AG7W8-4XE03-H8ERY-WDNGT-QKH90
+UF58K-D7W8M-H852Y-G5QZV-NZHVF
+ZY58A-65G9N-M84HY-9EN5X-WF2UF
+YU3J2-FPWE7-481TP-TFNEE-WL2T4
+UF11A-FYD4J-481PP-W5XGE-NLKE4
+AF5X2-D9Y04-489UP-HMPEE-N32F4
+YV7HU-ACG1H-H8ELZ-W6NQE-W2892
+ZF3T2-FRD1M-4895Q-8ZMGZ-WP2Y6
+YV34R-4UD9P-0888Y-NMNQV-WZUF6
+FF1E2-43GDK-484VP-6MP79-WUKXD
+UC7W8-8KW87-0811Y-QFWNX-Z20R2
+FG38K-65XE7-48E1Q-PZXE9-N6UAD
+VZ3H2-ARD9K-M89UQ-1YWEV-ZG2EF
+CZ342-0QE50-H855P-5DNX9-XGUTF
+
+
+
+
+
+
+
+
+
